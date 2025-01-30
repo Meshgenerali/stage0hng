@@ -18,13 +18,15 @@ This is a public API that returns my registered email, the current datetime in I
 
 1. Endpont: Get digitalsolutions.infinityfreeapp.com/
 2. Response Format:
+
+
 {
   "email": "your-email@example.com",
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "https://github.com/yourusername/your-repo"
 }
 
-3. Exapmle of usage
+3. Example of usage
 curl -X GET http://digitalsolutions.infinityfreeapp.com
 
 ## Backlink

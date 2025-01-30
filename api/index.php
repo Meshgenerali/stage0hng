@@ -5,7 +5,7 @@ header('Content-Type: application/json; charset=UTF-8');
 
 $email = "meshackmuuo595@gmail.com";
 $current_datetime = gmdate('Y-m-d\TH:i:s\Z');
-$github_url = '<https://github.com/Meshgenerali/public_api.git>';
+$github_url = '<https://github.com/Meshgenerali/stage0hng>';
 
 $response = [
     "email" => $email,
